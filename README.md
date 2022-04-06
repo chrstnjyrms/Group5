@@ -13,4 +13,7 @@ This study can also serve as reference for future researchers. The findings of t
 This study will focus on data about a risk that causes accidents. By creating data about the factors that cause accidents, drivers are aware. The purpose of this study is to look into the elements that influence the criticality of road accidents as reported by descriptive indices like multiple lapses were used to examine the percentage In road traffic accidents, categorical characteristics such as gender and vehicle type have been linked.
 ## Expected Output
 The increasing number of vehicles and more significant traffic volumes lead to many more opportunities for road accidents .Road accidents is now one of the primary causes of death for children and adults. It was ranked as the 8th leading causeof death for all age groups. Vulnerable people bear a disproportionate amount of the burden of road traffic accidents and deaths. road users, where an increasing number of deaths is fueled by increased motorized transportation (WHO, Global Fatality Report) The 2018 Safety Status Report). This study aims to analyze the severity of road accidents victims of the CALABARZON region This study will help to give critical analysis from the contributing and determinant factors, the effects, and its threat to the people and  to bridge the gap by providing knowledge on factors contributing to road traffic accidents.
-## Referrence
+
+## Reference
+
+
